@@ -7,6 +7,6 @@ metadata:
 spec:
   interval: 30s
   ref:
-    branch: 00-main
+    branch: main
   url: https://github.com/devopsfoo/instavote-deploy
 
